@@ -1,0 +1,6 @@
+{
+  "name": "TalHelix Admin Dashboard",
+  "description": "Multi-tenant institutional assessment platform with candidate roster management, attendance gating, and AI proctoring malpractice flag tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
